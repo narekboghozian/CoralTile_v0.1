@@ -28,9 +28,9 @@ The design of the prototype differs from that of the final design in several way
 
 ## Experimentation
 
-1. GPS
+### GPS
     * Experimentation with GPS to determine viability
-2. Display
+### Display
     * Display construction method may be viable alternative to custom lcd
-3. WiFi
+### WiFi
     * Field test for viability of WiFi 
