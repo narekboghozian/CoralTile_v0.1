@@ -22,7 +22,8 @@ The design of the prototype differs from that of the final design in several way
 ### Form Factor
 * Emergency debug ports sealed off with removable seal
 ### Code
-* Un-optimized, will lack useful functionality
+* Un-optimized, will consume too much power
+* Will lack complete functionality
 
 
 
